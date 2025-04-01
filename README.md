@@ -20,12 +20,9 @@ The model shows that:
 
 | File | Description |
 |------|-------------|
-| `qg_unification_thesis.md` | Thesis-style summary of the unified theory |
-| `qg_unification_draft_paper.md` | Formal draft paper suitable for submission |
-| `README_Unified_Phi_Theory.md` | This overview file |
-| `diagrams/` *(coming soon)* | Visual aids for the phase field, decoherence, curvature |
-| `simulations/` *(optional)* | Placeholder for future Python or Wolfram simulations |
-
+| `thesis.md` | Thesis-style summary of the unified theory |
+| `paper.md` | Formal draft paper suitable for submission |
+| `README.md` | This overview file |
 ---
 
 ## 🧮 Core Formulation
